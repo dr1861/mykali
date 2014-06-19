@@ -1,5 +1,6 @@
 # kali meta-package depends on everything we want
-kali-linux-full
+#kali-linux-full
+kali-linux
 kali-root-login
 kali-defaults
 kali-menu
